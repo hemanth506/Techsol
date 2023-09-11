@@ -26,7 +26,7 @@ app.use("/api", nodeapi);
 app.get("*", function (req, res) {
   console.log(
     "🚀 ~ file: index.js:26 ~ /*:",
-    path.join(__dirname, "build", "index.html")
+    path.resolve(__dirname, "build", "index.html")
   );
   res.sendFile(path.resolve(__dirname, "build", "index.html"));
 });
