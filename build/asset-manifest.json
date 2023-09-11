@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./static/css/main.88dedfed.css",
+    "main.js": "./static/js/main.af8277ac.js",
+    "static/media/shop-photo.png": "./static/media/shop-photo.2e23c0560ac5e9b7a00a.png",
+    "static/media/vision-group-19.png": "./static/media/vision-group-19.af5f80ab66770b44eb52.png",
+    "index.html": "./index.html",
+    "main.88dedfed.css.map": "./static/css/main.88dedfed.css.map",
+    "main.af8277ac.js.map": "./static/js/main.af8277ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88dedfed.css",
+    "static/js/main.af8277ac.js"
+  ]
+}
