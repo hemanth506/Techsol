@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.635cc060.css",
-    "main.js": "/static/js/main.805cb5ea.js",
+    "main.css": "/static/css/main.ed973921.css",
+    "main.js": "/static/js/main.7ce6e240.js",
+    "static/media/Mask-group.svg": "/static/media/Mask-group.3ae5bbee750f291d14db.svg",
     "static/media/shop-photo.png": "/static/media/shop-photo.2e23c0560ac5e9b7a00a.png",
+    "static/media/Hero_Bacground.svg": "/static/media/Hero_Bacground.86cbdc851549c0593179.svg",
     "static/media/vision-group-19.png": "/static/media/vision-group-19.af5f80ab66770b44eb52.png",
+    "static/media/concentric_background.png": "/static/media/concentric_background.bfc440cb2d26961b8d49.png",
+    "static/media/KR-trust.svg": "/static/media/KR-trust.5aa5e9b4ebaf7addf3eb.svg",
+    "static/media/LT-trust.svg": "/static/media/LT-trust.50093d271b3c43c57569.svg",
+    "static/media/Service-badge.svg": "/static/media/Service-badge.6658580365a6d84b289042ac7c7c6ae3.svg",
     "index.html": "/index.html",
-    "main.635cc060.css.map": "/static/css/main.635cc060.css.map",
-    "main.805cb5ea.js.map": "/static/js/main.805cb5ea.js.map"
+    "static/media/Sales-badge.svg": "/static/media/Sales-badge.2a96e6bf7e0f99c4ad70fe940ed256cf.svg",
+    "static/media/Support-badge.svg": "/static/media/Support-badge.6f0c7fb415f4e66b180a3cf195d94f0f.svg",
+    "main.ed973921.css.map": "/static/css/main.ed973921.css.map",
+    "main.7ce6e240.js.map": "/static/js/main.7ce6e240.js.map"
   },
   "entrypoints": [
-    "static/css/main.635cc060.css",
-    "static/js/main.805cb5ea.js"
+    "static/css/main.ed973921.css",
+    "static/js/main.7ce6e240.js"
   ]
 }
