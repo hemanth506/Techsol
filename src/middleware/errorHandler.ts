@@ -6,9 +6,6 @@ export const errorHandler: any = (
   req: Request,
   res: Response,
   next: NextFunction
-
-
-  
 ) => {
   const statusCode = res.statusCode ? res.statusCode : 500;
   console.log(statusCode);
